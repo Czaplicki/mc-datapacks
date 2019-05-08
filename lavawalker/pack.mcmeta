@@ -1,0 +1,6 @@
+{
+	"pack" : {
+		"pack_format" : 4,
+		"description" : "Allows players with frost walker 2 diamond boots, to walk on lava\n(temporerly turns nearby lava to magma blocks)"
+	}
+}

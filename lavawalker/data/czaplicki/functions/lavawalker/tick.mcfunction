@@ -1,0 +1,3 @@
+execute at @a[nbt={Inventory:[{id:"minecraft:diamond_boots",Slot:100b,tag:{Enchantments:[{id:"frost_walker",lvl:2}]}}]}] run function czaplicki:lavawalker/do_area
+
+execute as @e[tag=temp_magma,type=minecraft:area_effect_cloud] at @s unless entity @a[distance=..3,nbt={Inventory:[{id:"minecraft:diamond_boots",Slot:100b,tag:{Enchantments:[{id:"frost_walker",lvl:2}]}}]}] run function czaplicki:lavawalker/revert_magma
