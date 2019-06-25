@@ -1,0 +1,2 @@
+summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:shulker_spawn_egg",Count:1,tag:{EntityTag:{DeathLootTable:"czaplicki:core/empty",NoAI:1,Silent:1,DeathTime:19s,CustomNameVisible:false,ActiveEffects:[{Id:14,Duration:200,ShowParticles:0b}],Tags:["void_hopper_lvl2_placer"]},display:{Name:'{"text":"Void Hopper","italic":false,"color":"aqua"}',Lore:['{"text":"Range II","italic":false,"color":"gray"}']},CustomModelData:1234567}}}
+scoreboard players reset @s voidhoppers_temp

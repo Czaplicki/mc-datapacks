@@ -1,0 +1,1 @@
+execute as @e[tag=void_hopper_lvl1] at @s positioned ~ ~0.75 ~ run execute as @e[limit=1,type=minecraft:item,distance=..3,tag=!collected_by_void_hopper] run function czaplicki:voidhoppers/collect
