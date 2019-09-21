@@ -1,0 +1,25 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "czaplicki:thirstbar/full.png",
+            "ascent": -15,
+            "height": 9,
+            "chars": ["\uE777"]
+        },
+        {
+            "type": "bitmap",
+            "file": "czaplicki:thirstbar/half.png",
+            "ascent": -15,
+            "height": 9,
+            "chars": ["\uE778"]
+        },
+        {
+            "type": "bitmap",
+            "file": "czaplicki:thirstbar/empty.png",
+            "ascent": -15,
+            "height": 9,
+            "chars": ["\uE779"]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+Thirstbar is not a stand alone dp+rp
+Thirstbar is a rp and a dp patch
+Meaning you have to download the original dp from :
+	https://www.planetminecraft.com/mod/basic-thirst-datapack-1-14/
+and then simply override the contents of the dp
+with the contents thirstbar_dpp
+
+installation:
+	download original datapack from:
+		https://www.planetminecraft.com/mod/basic-thirst-datapack-1-14/
+	drag and drop the content of thirstbar_dpp, 
+	inside the downloaded data pack
+
+	(place the datapack in the datapacks folder)
+	(place the thirstbar_rp in the resourcepacks folder)
+	(activte the resourcepack in game)
+
+
+All credits to the orginal author PickledSosig
+I simply made a graphical patch for his/hers work
+
+Usage:
+	respect the original creators wishes
+	and for my part, credit is allways nice,
+	but not needed. If you use it in any way
+	I would gladly check out your project^^ 
