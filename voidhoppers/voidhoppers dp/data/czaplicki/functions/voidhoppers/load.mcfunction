@@ -1,3 +1,0 @@
-scoreboard objectives remove voidhoppers_temp
-scoreboard objectives add voidhoppers_temp dummy
-# scoreboard objectives setdisplay sidebar voidhoppers_temp
